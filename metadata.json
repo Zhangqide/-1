@@ -1,0 +1,6 @@
+{
+  "name": "集箱任务签收PDA",
+  "description": "集箱任务签收PDA移动端应用，提供待签收/已签收列表、装箱单筛选、详细信息查看、单号扫描签收及扫描进度展现等作业功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
